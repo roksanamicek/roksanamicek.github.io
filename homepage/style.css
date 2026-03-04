@@ -1,0 +1,24 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #D2C8F7;
+}
+
+h1 {
+    color: #2c2c54;
+    font-weight: bold;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+img {
+    margin: 15px 0;
+    border-radius: 12px;
+}
+
+footer {
+    color: gray;
+    font-size: 14px;
+}
